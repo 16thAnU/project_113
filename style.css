@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(24, 197, 183);
+}
+.title
+{
+text-align:center;
+color:greenyellow;
+}
+.camera
+{
+border-style: dotted;
+border-color:brown;
+}
